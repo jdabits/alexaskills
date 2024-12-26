@@ -1,0 +1,14 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto para Alexa Skill con API de YouTube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "googleapis": "^105.0.0"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
